@@ -5,8 +5,5 @@
         <data xmlns="http://www.netbeans.org/ns/php-project/1">
             <name>thinkphp</name>
         </data>
-        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
-            <word>空控制器</word>
-        </spellchecker-wordlist>
     </configuration>
 </project>
