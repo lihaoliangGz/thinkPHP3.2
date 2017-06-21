@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>对模板输出使用函数 和 默认值输出</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        
+        {$num|md5}<br/>
+        <!--编译后的结果是:-->
+        <?php echo (md5($num)); ?>
+        <br/>   
+        {$create_time}
+        <br/>
+        {$create_time|date='Y-m-d',###}
+        <br/>
+        <!--{$str|substr=0,3}-->
+        
+        <!--我们可以给变量输出提供默认值，例如：-->
+        {$user.nickname|default="这家伙很懒，什么也没留下"}
+        <!--对系统变量依然可以支持默认值输出，例如：-->
+        {$Think.get.name|default="名称为空"}
+        <!--默认值和函数可以同时使用，例如：-->
+        {$Think.get.name|getName|default="名称为空"}
+        
+    </body>
+</html>

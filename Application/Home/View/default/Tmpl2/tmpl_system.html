@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+
+测试系统变量输出模版
+
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <!--系统变量输出-->
+        {$Think.server.script_name}
+        <br/>
+        <!--输出$_SESSION['user_id']变量-->
+        {$Think.session.user_id} 
+        <br/>
+        <!--输出$_GET['pageNumber']变量-->
+        {$Think.get.pageNumber} 
+        <br/>
+        <!--输出$_COOKIE['name']变量-->
+        {$Think.cookie.name}  
+        <br/>
+        
+        <!--常量输出-->
+        {$Think.const.MODULE_NAME}
+        <br/>
+        {$Think.MODULE_NAME}
+        <br/>
+        
+        <!--配置输出-->
+        {$Think.config.db_charset}
+        <br/>
+        {$Think.config.db_user}
+        <br/>
+        {$Think.config.db_host}
+        <br/>
+        
+        <!--语言变量输出-->
+        {$Think.lang.page_error}
+        <br/>
+        {$Think.lang.var_error}
+        
+    </body>
+</html>

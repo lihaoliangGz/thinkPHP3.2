@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>包含文件(include) 测试</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div>TODO write content</div>
+        <!--包含newhtml.html文件;-->
+        <include file='newhtml'/> 
+        <!--包含base.html文件:-->
+        <include file='base'/>
+        
+        <!--无论你使用什么方式包含外部模板，Include标签支持在包含文件的同时传入参数-->
+        <!--传入了title和keywords变量:-->
+        <include file='header' title='这是被包含的header.html' keywords='开源web开发框架'/>
+        
+        
+        
+    </body>
+</html>

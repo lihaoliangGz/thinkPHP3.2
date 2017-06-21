@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+
+
+内置标签 范围判断:
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        
+        <!--in-->
+        <in name='id' value='1,2,3'>
+        {$id}在范围内    
+        <else/>
+        {$id}不在范围内
+        </in>
+        
+        <br/>
+        <br/>
+        
+        <!--name属性可以支持判断系统变量-->
+        <in name='Think.get.id' value='1,2,3'>
+        在范围内
+        </eq>
+
+        <!--BETWEEN和NOTBETWEEN-->
+        <!--使用between标签来判断变量是否在某个区间范围内-->
+        
+        <br/>
+        <br/>
+        <br/>
+        
+        <!--RANGE-->
+        <!-- 也可以直接使用range标签，替换前面的判断用法：-->
+
+        <range name="id" value="1,2,3" type="in">
+            输出内容{$id}
+        </range>
+        
+    </body>
+</html>

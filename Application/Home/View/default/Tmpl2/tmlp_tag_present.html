@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.\
+
+内置标签 present
+-->
+<html>
+    <head>
+        <title>内置标签 present</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <!--present标签用于判断某个变量是否已经定义-->
+        <present name="name">
+            name已经赋值
+        </present>
+        
+    
+           <br/>
+           <br/>
+           
+        <!--判断没有赋值-->
+        <notpresent name="name">
+            name还没有赋值
+        </notpresent> 
+        
+        <br/>
+        <br/>
+        
+        <present name="Think.get.name">
+            Think.get.name已经赋值
+            <else /> 
+            Think.get.name还没有赋值
+        </present> 
+        
+    </body>
+</html>

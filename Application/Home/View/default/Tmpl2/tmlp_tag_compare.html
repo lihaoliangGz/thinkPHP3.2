@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+
+内置标签 比较
+
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <!--name变量的值等于value就输出Value-->
+        <eq name='name' value='value'> value</eq>
+        
+        <br/>
+        <br/>
+        
+        <!--和else标签混合使用-->
+        <eq name='name' value='value1'>
+           name变量的值等value变量的值
+        <else/>
+           name变量的值不等value变量的值
+        </eq>
+        
+        <br/>
+        <br/>
+        <!--当 name变量的值大于5就输出-->
+        <gt name="num" value="5">value</gt>
+        <br/>
+        <!--当name变量的值不小于5就输出-->
+        <egt name="num" value="5">value1</egt>
+        
+        <br/>
+        <br/>
+        <!--变量名支持系统变量-->
+        <eq name='Think.get.name' value='value'>相等<else/>不相等</eq>
+        
+        <br/>
+        <br/>
+        <br/>
+        <!--所有的比较标签可以统一使用compare标签（其实所有的比较标签都是compare标签的别名），例如： 当name变量的值等于5就输出-->
+        <compare name="num" value="5" type="eq">等于5</compare>
+        <!--等效于-->
+        <eq name="num" value="5" >等于5</eq>
+        <!--其中type属性的值就是上面列出的比较标签名称-->
+        
+        
+        <!--还可以支持其他的比较,请查阅文档-->
+        
+    </body>
+</html>

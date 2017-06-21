@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div>TODO write content</div>
+        Hello,{$name}!
+        <br/>
+        <br/>
+        Name:{$data.name} 
+        <br/>
+        Name:{$data.name|md5} <!-- 使用函数-->
+        <br/>
+        Email:{$data.email}
+        <br/>
+        <br/>
+        Name:{$data['name']} 
+        <br/>
+        Email:{$data['email']}
+        <br/>
+        <br/>
+        <br/>
+        系统变量输出:
+        <br/>
+        {$Think.server.script_name}
+        <br/>
+        {$Think.session.user_id}
+        <br/>
+        {$Think.get.pageNumber}
+        <br/>
+        {$Think.cookie.name}
+        <br/>
+        {$Think.const.MODULE_NAME}
+        <br/>
+        {$Think.MODULE_NAME}
+        <br/>
+        {$Think.config.db_charset}
+        <br/>
+        {$Think.config.url_model}
+        <br/>
+        {$Think.lang.page_error}
+        <br/>
+        {$Think.lang.var_error}
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        
+        使用函数:
+        <br/>
+        {$create_time|date='Y-M-D',###}
+        <br/>
+        {$create_time|date='Y-m-d',###}
+        <br/>
+        {$data.name|substr=0,3}
+        <br/>
+        {$name|md5|strtoupper|substr=0,3}
+        
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        默认值输出:
+        <br/>
+        <!--{$user.nickname|default="什么也没有留下"}-->
+        <br/>
+        <!--{$Think.get.name}-->
+        <br/>
+        <!--{$Think.get.name|default="参数为空"}-->
+        <br/>
+        <!--{$Think.get.name|getName}-->
+        <br/>
+        <!--{$Think.get.name|getName|default="名称为空"}-->
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        使用运算符:
+        <br/>
+        {$user.score+10} //错误的
+        <br/>
+        {$user['score']+10} //正确的
+        <br/>
+        {$user['score']*$user['level']} //正确的
+        <br/>
+        <!--{$user['score']|myFun*10} //错误的-->
+        <br/>
+        <!--{$user['score']+myFun($user['level'])} //正确的-->
+        <br/>
+     
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        标签库:
+        <br/>
+        <taglib name="cx"/>
+        <eq name="status" value="1">
+        正常
+        </eq>
+>            
+    </body>
+</html>

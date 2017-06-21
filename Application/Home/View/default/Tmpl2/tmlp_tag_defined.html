@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>内置标签defined</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <!--DEFINED标签用于判断某个常量是否有定义，用法如下：-->
+        <defined name="APP_PATH">
+            APP_PATH常量已经定义
+        </defined>
+    
+        <br/>
+        <br/>
+    <!--name属性的值要注意严格大小写-->
+    
+    <!--如果判断没有被定义，可以使用：-->
+        <notdefined name="NAME">
+            NAME常量未定义
+        </notdefined>
+    
+        <br/>
+        <br/>
+        <!--可以把上面两个标签合并成为：-->
+        <defined name="NAME">
+            NAME常量已经定义
+            <else /> 
+            NAME常量未定义
+        </defined>  
+
+    </body>
+</html>

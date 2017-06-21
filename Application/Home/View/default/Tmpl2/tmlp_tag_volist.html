@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+
+内置标签volist
+
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <!--Volist标签的name属性表示模板赋值的变量名称
+            id表示当前的循环变量，可以随意指定
+            测试失败
+        -->
+    <volist name='list' id='vo'>
+        {$vo.id}{$vo.status} <br/>
+        
+    </volist>
+    </body>
+</html>

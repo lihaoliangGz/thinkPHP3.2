@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+
+内置标签foreach
+
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+    <foreach name="list" item="vo">
+        <br/>
+        {$vo.id} --{$vo.username}--{$vo.password}--{$vo.status}
+    </foreach>
+    
+    <br/>
+    <br/>
+    
+    <!--输出索引:-->
+    <foreach name='list' item='vo' >
+        {$key} : {$vo}  <br/>
+        
+    </foreach>
+    
+    <br/>
+    <br/>
+    
+    <!--定义索引的变量名为k:-->
+    <foreach name='list' item='vo' key='k'>
+        {$k} :{$vo}   <br/>
+
+    </foreach>
+    
+    </body>
+</html>
