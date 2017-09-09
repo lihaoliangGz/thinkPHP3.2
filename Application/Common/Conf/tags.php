@@ -9,7 +9,7 @@
  */
 
 return array(
-    'action_begin' => array('Home\\Behaviors\\TestBehaviors'),
+    //'action_begin' => array('Home\\Behaviors\\TestBehaviors'),
     'app_begin'=> array('Behavior\CheckLangBehavior'),//配置开启多语言行为
 
 );

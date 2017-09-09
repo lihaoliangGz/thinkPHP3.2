@@ -9550,3 +9550,2379 @@ H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php
 [ 用户 ]
 
 
+[ 2017-09-09T17:36:59+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 17:36:59 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0260s ( Load:0.0180s Init:0.0060s Exec:0.0020s Template:0.0000s )
+吞吐率:38.46req/s
+内存开销:877.73 kb
+查询信息:0 queries 0 writes 
+文件加载:31
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.25 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T17:41:03+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 17:41:03 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0400s ( Load:0.0130s Init:0.0040s Exec:0.0010s Template:0.0220s )
+吞吐率:25.00req/s
+内存开销:1,188.40 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.28 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.18 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T17:43:43+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 17:43:43 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0310s ( Load:0.0160s Init:0.0060s Exec:0.0000s Template:0.0090s )
+吞吐率:32.26req/s
+内存开销:1,189.04 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.41 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T17:43:58+08:00 ] 127.0.0.1 /thinkphp/Home/upload/upload
+[ 基本 ]
+请求信息:2017-09-09 17:43:58 HTTP/1.1 POST : /thinkphp/Home/upload/upload
+运行时间:0.0270s ( Load:0.0180s Init:0.0060s Exec:0.0030s Template:0.0000s )
+吞吐率:37.04req/s
+内存开销:878.66 kb
+查询信息:0 queries 0 writes 
+文件加载:31
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T17:44:28+08:00 ] 127.0.0.1 /thinkphp/Home/upload/upload
+[ 基本 ]
+请求信息:2017-09-09 17:44:28 HTTP/1.1 POST : /thinkphp/Home/upload/upload
+运行时间:0.0260s ( Load:0.0190s Init:0.0050s Exec:0.0020s Template:0.0000s )
+吞吐率:38.46req/s
+内存开销:879.66 kb
+查询信息:0 queries 0 writes 
+文件加载:31
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.37 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T17:45:06+08:00 ] 127.0.0.1 /thinkphp/Home/upload/upload
+[ 基本 ]
+请求信息:2017-09-09 17:45:06 HTTP/1.1 POST : /thinkphp/Home/upload/upload
+运行时间:0.0200s ( Load:0.0140s Init:0.0040s Exec:0.0020s Template:0.0000s )
+吞吐率:50.00req/s
+内存开销:879.62 kb
+查询信息:0 queries 0 writes 
+文件加载:31
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.37 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T17:51:13+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 17:51:13 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0210s ( Load:0.0080s Init:0.0040s Exec:0.0000s Template:0.0090s )
+吞吐率:47.62req/s
+内存开销:1,191.91 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.85 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.41 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T17:51:24+08:00 ] 127.0.0.1 /thinkphp/Home/upload/upload
+[ 基本 ]
+请求信息:2017-09-09 17:51:24 HTTP/1.1 POST : /thinkphp/Home/upload/upload
+运行时间:0.0230s ( Load:0.0100s Init:0.0060s Exec:0.0070s Template:0.0000s )
+吞吐率:43.48req/s
+内存开销:961.82 kb
+查询信息:0 queries 0 writes 
+文件加载:33
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.85 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Upload.class.php ( 14.55 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Upload\Driver\Local.class.php ( 3.52 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T17:52:00+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 17:52:00 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0340s ( Load:0.0140s Init:0.0070s Exec:0.0010s Template:0.0120s )
+吞吐率:29.41req/s
+内存开销:1,191.91 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.85 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.41 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T17:52:05+08:00 ] 127.0.0.1 /thinkphp/Home/upload/upload
+[ 基本 ]
+请求信息:2017-09-09 17:52:05 HTTP/1.1 POST : /thinkphp/Home/upload/upload
+运行时间:0.0370s ( Load:0.0190s Init:0.0030s Exec:0.0150s Template:0.0000s )
+吞吐率:27.03req/s
+内存开销:962.32 kb
+查询信息:0 queries 0 writes 
+文件加载:33
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.85 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Upload.class.php ( 14.55 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Upload\Driver\Local.class.php ( 3.52 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T17:56:07+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 17:56:07 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0350s ( Load:0.0180s Init:0.0060s Exec:0.0010s Template:0.0100s )
+吞吐率:28.57req/s
+内存开销:1,192.13 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.41 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T17:56:12+08:00 ] 127.0.0.1 /thinkphp/Home/upload/upload
+[ 基本 ]
+请求信息:2017-09-09 17:56:12 HTTP/1.1 POST : /thinkphp/Home/upload/upload
+运行时间:0.0310s ( Load:0.0110s Init:0.0050s Exec:0.0150s Template:0.0000s )
+吞吐率:32.26req/s
+内存开销:963.08 kb
+查询信息:0 queries 0 writes 
+文件加载:33
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Upload.class.php ( 14.55 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Upload\Driver\Local.class.php ( 3.52 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:00:01+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:00:01 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0350s ( Load:0.0180s Init:0.0060s Exec:0.0010s Template:0.0100s )
+吞吐率:28.57req/s
+内存开销:1,191.44 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:00:06+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:00:06 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0360s ( Load:0.0150s Init:0.0090s Exec:0.0010s Template:0.0110s )
+吞吐率:27.78req/s
+内存开销:1,191.44 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:00:06+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:00:06 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0280s ( Load:0.0100s Init:0.0070s Exec:0.0010s Template:0.0100s )
+吞吐率:35.71req/s
+内存开销:1,191.44 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:00:07+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:00:07 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0390s ( Load:0.0200s Init:0.0060s Exec:0.0000s Template:0.0130s )
+吞吐率:25.64req/s
+内存开销:1,191.44 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:00:11+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:00:11 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0320s ( Load:0.0150s Init:0.0060s Exec:0.0010s Template:0.0100s )
+吞吐率:31.25req/s
+内存开销:1,191.44 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:00:11+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:00:11 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0280s ( Load:0.0110s Init:0.0050s Exec:0.0010s Template:0.0110s )
+吞吐率:35.71req/s
+内存开销:1,191.44 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:00:11+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:00:11 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0240s ( Load:0.0090s Init:0.0050s Exec:0.0000s Template:0.0100s )
+吞吐率:41.67req/s
+内存开销:1,191.44 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:00:12+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:00:11 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0400s ( Load:0.0160s Init:0.0110s Exec:0.0010s Template:0.0120s )
+吞吐率:25.00req/s
+内存开销:1,191.44 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:00:12+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:00:12 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0220s ( Load:0.0080s Init:0.0040s Exec:0.0010s Template:0.0090s )
+吞吐率:45.45req/s
+内存开销:1,191.44 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:00:12+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:00:12 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0230s ( Load:0.0090s Init:0.0040s Exec:0.0010s Template:0.0090s )
+吞吐率:43.48req/s
+内存开销:1,191.44 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:00:12+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:00:12 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0300s ( Load:0.0140s Init:0.0060s Exec:0.0010s Template:0.0090s )
+吞吐率:33.33req/s
+内存开销:1,191.44 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:00:12+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:00:12 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0240s ( Load:0.0090s Init:0.0050s Exec:0.0000s Template:0.0100s )
+吞吐率:41.67req/s
+内存开销:1,191.44 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:00:13+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:00:13 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0350s ( Load:0.0140s Init:0.0090s Exec:0.0010s Template:0.0110s )
+吞吐率:28.57req/s
+内存开销:1,191.44 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:00:13+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:00:13 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0220s ( Load:0.0080s Init:0.0050s Exec:0.0000s Template:0.0090s )
+吞吐率:45.45req/s
+内存开销:1,191.44 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:00:13+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:00:13 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0260s ( Load:0.0100s Init:0.0050s Exec:0.0010s Template:0.0100s )
+吞吐率:38.46req/s
+内存开销:1,191.44 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:00:13+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:00:13 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0350s ( Load:0.0160s Init:0.0090s Exec:0.0010s Template:0.0090s )
+吞吐率:28.57req/s
+内存开销:1,191.44 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:00:14+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:00:14 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0350s ( Load:0.0150s Init:0.0070s Exec:0.0010s Template:0.0120s )
+吞吐率:28.57req/s
+内存开销:1,191.44 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:00:14+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:00:14 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0250s ( Load:0.0100s Init:0.0040s Exec:0.0000s Template:0.0110s )
+吞吐率:40.00req/s
+内存开销:1,191.44 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:00:16+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:00:16 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0270s ( Load:0.0110s Init:0.0040s Exec:0.0010s Template:0.0110s )
+吞吐率:37.04req/s
+内存开销:1,191.41 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:00:17+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:00:17 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0340s ( Load:0.0190s Init:0.0050s Exec:0.0000s Template:0.0100s )
+吞吐率:29.41req/s
+内存开销:1,191.44 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:00:46+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:00:46 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0240s ( Load:0.0090s Init:0.0040s Exec:0.0010s Template:0.0100s )
+吞吐率:41.67req/s
+内存开销:1,191.46 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:00:47+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:00:47 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0260s ( Load:0.0090s Init:0.0060s Exec:0.0000s Template:0.0110s )
+吞吐率:38.46req/s
+内存开销:1,191.46 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:00:47+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:00:47 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0300s ( Load:0.0120s Init:0.0060s Exec:0.0010s Template:0.0110s )
+吞吐率:33.33req/s
+内存开销:1,191.46 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:01:17+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:01:17 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0260s ( Load:0.0100s Init:0.0040s Exec:0.0010s Template:0.0110s )
+吞吐率:38.46req/s
+内存开销:1,191.46 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-09-09T18:01:17+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
+[ 基本 ]
+请求信息:2017-09-09 18:01:17 HTTP/1.1 GET : /thinkphp/Home/upload/index
+运行时间:0.0360s ( Load:0.0120s Init:0.0080s Exec:0.0010s Template:0.0150s )
+吞吐率:27.78req/s
+内存开销:1,191.46 kb
+查询信息:0 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:132
+会话信息:SESSION_ID=r9lj2m249hard4b25nu9cq1t00
+
+[ 文件 ]
+H:\test_local\thinkphp\index.php ( 1.96 KB )
+H:\test_local\thinkphp\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+H:\test_local\thinkphp\ThinkPHP\Mode\common.php ( 2.82 KB )
+H:\test_local\thinkphp\ThinkPHP\Common\functions.php ( 52.60 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\convention.php ( 11.18 KB )
+H:\test_local\thinkphp\Application\Common\Conf\config.php ( 1.42 KB )
+H:\test_local\thinkphp\Application\Common\Conf\tags.php ( 0.32 KB )
+H:\test_local\thinkphp\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+H:\test_local\thinkphp\ThinkPHP\Conf\debug.php ( 1.51 KB )
+H:\test_local\thinkphp\Application\Common\Conf\debug.php ( 0.28 KB )
+H:\test_local\thinkphp\Application\Common\Conf\user.php ( 0.37 KB )
+H:\test_local\thinkphp\Application\Common\Conf\db.php ( 0.59 KB )
+H:\test_local\thinkphp\Application\Home\Conf\config.php ( 2.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+H:\test_local\thinkphp\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+H:\test_local\thinkphp\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+H:\test_local\thinkphp\Application\Home\Controller\UploadController.class.php ( 0.84 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template.class.php ( 28.35 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib\Cx.class.php ( 22.62 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Think\Template\TagLib.class.php ( 9.19 KB )
+H:\test_local\thinkphp\Application\Runtime\Cache\Home\0addf8533d44d1fdf38c0b3a99ee39ed.php ( 0.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\WriteHtmlCacheBehavior.class.php ( 1.43 KB )
+H:\test_local\thinkphp\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
