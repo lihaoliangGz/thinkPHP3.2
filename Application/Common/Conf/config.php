@@ -34,4 +34,8 @@ return array(
      //'SHOW_ERROR_MSG' => FALSE, // 显示错误信息
     // 'ERROR_MESSAGE' => '发生错误',
     'ERROR_PAGE' =>'/Public/error.html',
+    'SHOW_PAGE_TRACE'=>true,
+    'PAGE_TRACE_SAVE'=>true,//保存trace信息
+
+    'LANG_SWITCH_ON'=>true,//开启语言包功能
 );
