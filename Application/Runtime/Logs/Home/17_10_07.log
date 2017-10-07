@@ -30,3 +30,19 @@ ERR: 1054:Unknown column 'name' in 'where clause'
 ERR: 1146:Table 'doumu.category' doesn't exist
  [ SQL语句 ] : SHOW COLUMNS FROM `category`
 
+[ 2017-10-07T14:39:29+08:00 ] 127.0.0.1 /thinkphp/Home/DB/select
+ERR: 1146:Table 'doumu.category' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `category`
+
+[ 2017-10-07T14:39:46+08:00 ] 127.0.0.1 /thinkphp/Home/DB/select
+ERR: 1054:Unknown column 'admin' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `admin_user` WHERE ( username=admin ) LIMIT 1  
+
+[ 2017-10-07T14:40:20+08:00 ] 127.0.0.1 /thinkphp/Home/DB/select
+ERR: 1054:Unknown column 'admin' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `admin_user` WHERE ( username=admin ) LIMIT 1  
+
+[ 2017-10-07T14:59:01+08:00 ] 127.0.0.1 /thinkphp/Home/DB/select
+ERR: 1054:Unknown column 'username' in 'field list'
+ [ SQL语句 ] : SELECT `code`,`username` FROM db_test1.country WHERE ( name="china" ) 
+
