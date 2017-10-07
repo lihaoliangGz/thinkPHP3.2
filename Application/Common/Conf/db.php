@@ -17,6 +17,8 @@ return array(
     'DB_USER' => 'root',
     'DB_PWD' => '',
     'DB_PORT' =>3306,
+    //'DB_PREFIX' => 'sr_',//数据库前缀
+    'DB_DEBUG'=>true,//数据库调试
     'DB_NAME' =>'doumu',
     'DB_CHARSET' =>'utf8',
     //'DB_PARAMS'  =>array(PDO::ATTR_PERSISTENT=>TRUE),//设置长连接,非必须

@@ -10,7 +10,7 @@ return array(
  
        
     //加载扩展配置文件:
-    'LOAD_EXT_CONFIG' =>'user,db',
+    'LOAD_EXT_CONFIG' =>'user,db,db_config',
     //加载扩展配置文件,也可以改成这样
     //'LOAD_EXT_CONFIG'=> array('USER'=>'user','DB'=>'db'),//则最终获取用户参数的方式改成：C('USER.USER_AUTH_ID');
     
@@ -34,4 +34,8 @@ return array(
      //'SHOW_ERROR_MSG' => FALSE, // 显示错误信息
     // 'ERROR_MESSAGE' => '发生错误',
     'ERROR_PAGE' =>'/Public/error.html',
+    'SHOW_PAGE_TRACE'=>true,
+    'PAGE_TRACE_SAVE'=>true,//保存trace信息
+
+    'LANG_SWITCH_ON'=>true,//开启语言包功能
 );
