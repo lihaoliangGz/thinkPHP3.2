@@ -10,7 +10,7 @@ return array(
  
        
     //加载扩展配置文件:
-    'LOAD_EXT_CONFIG' =>'user,db',
+    'LOAD_EXT_CONFIG' =>'user,db,db_config',
     //加载扩展配置文件,也可以改成这样
     //'LOAD_EXT_CONFIG'=> array('USER'=>'user','DB'=>'db'),//则最终获取用户参数的方式改成：C('USER.USER_AUTH_ID');
     

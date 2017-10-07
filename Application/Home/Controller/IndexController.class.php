@@ -349,8 +349,8 @@ class IndexController extends Controller {
 
     //重定向:
     public function redi_test() {
-        //redirect函数,测试不成功
-        redirect('https://www.baidu.com','',5,'页面跳转中');
+        //redirect函数
+        redirect('https://www.baidu.com',3,'页面跳转中');
     }
 
     //输入变量

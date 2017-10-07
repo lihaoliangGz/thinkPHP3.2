@@ -36,6 +36,8 @@ class DBController extends Controller{
         $m = M('city');
         $select1 = $m->select();
         //var_dump($select1);
+
+        echo "\n\n=============================================================\n\n";
         
         
         //跨库操作, 实例化mysql数据库下的db表
@@ -59,16 +61,56 @@ class DBController extends Controller{
        
         
     }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
+    /**
+     * 切换数据库
+     */
+    public function change(){
+        $m = M();
+        $m->db(2,"DB_CONFIG1");
+        $query=$m->query("select * from country");
+        dump($query);
+
+        echo "\n\n===========================================\n\n";
+
+        $find = $m->table("delete")->select();
+        dump($find);
+
+    }
+
+    /**
+     *  连贯操作
+     */
+    public function coherent(){
+
+        $m=M("db_test1.country");
+        $select=$m->where('name="CHINA"')->order('code desc')->field('name,code')->limit(2)->select();
+        dump($select);
+
+        echo "\n\n=================================\n\n";
+
+        $select1=$m->select(array("where" => "name='CHINA'",'order'=>'code desc','limit'=>1));
+        dump($select1);
+    }
+
+    /**
+     * 命名范围
+     */
+    public function name(){
+        $m=D("Category");
+        $select=$m->scope('normal')->select();
+        dump($select);
+    }
+
+    /**
+     * 增删改查
+     */
+    public function Curd(){
+        $m = D('Category');
+        $create=$m->create();
+        dump($create);
+
+    }
     
     //空操作
     public function _empty($name) {
