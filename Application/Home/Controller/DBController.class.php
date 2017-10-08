@@ -229,6 +229,38 @@ class DBController extends Controller{
         dump($select);
     }
 
+    /**
+     * 查询语言
+     *
+     * 查询方式
+     */
+    public function selectType(){
+        //使用字符串作为查询条件
+
+        //使用数组作为查询条件(简单的相等判断)
+        $admin = D('Category');
+        $map['username'] = 'admin';
+        $map['status'] = 0;
+        $map['_logic'] = 'OR';//使用 _logic 定义查询逻辑(默认的逻辑是AND)
+        $select=$admin->where($map)->select();
+        dump($select);
+
+        echo "\n\n==========================================\n\n";
+
+        //使用对象方式查询(简单的相等判断)
+        $admin = D('Category');
+        $map=null;
+        $condition=new \stdClass();
+        $condition->username = 'admin';
+        $condition->status=1;
+        $select=$admin->where($condition)->select();
+        dump($select);
+
+        //exp表达式:
+
+
+    }
+
     //空操作
     public function _empty($name) {
         echo "空操作测试，name:", $name;
