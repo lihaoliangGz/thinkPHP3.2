@@ -1,9 +1,0 @@
-[ 2017-09-09T17:40:08+08:00 ] 127.0.0.1 /thinkphp/Home/upload/index
-ERR: 模板不存在:./Application/Home/View/default/Upload/index.html
-
-[ 2017-09-09T17:50:16+08:00 ] 127.0.0.1 /thinkphp/Home/upload/upload
-ERR: 模板不存在:./Application/Home/View/default/Public/error.html
-
-[ 2017-09-09T17:52:44+08:00 ] 127.0.0.1 /thinkphp/Home/upload/upload
-ERR: 模板不存在:./Application/Home/View/default/Public/success.html
-
