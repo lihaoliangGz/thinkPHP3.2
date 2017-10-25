@@ -91,6 +91,95 @@ class DBController extends Controller{
 
         $select1=$m->select(array("where" => "name='CHINA'",'order'=>'code desc','limit'=>1));
         dump($select1);
+
+
+    }
+
+    /**
+     * 连贯操作--WHERE
+     */
+    public function where(){
+
+        //字符串条件
+        $admin = D('Category');
+        $select=$admin->where('status=1 and username="admin"')->select();
+        dump($select);
+
+        echo "\n\n=================================\n\n";
+
+        //数组条件--普通查询(相等判断)
+        $admin=D('Category');
+        $map['username'] = 'admin3';
+        $select = $admin->where($map)->select();
+        dump($select);
+
+        echo "\n\n=================================\n\n";
+
+        //数组条件--表达式查询
+        //where方法支持多次调用,多次的数组条件表达式会最终合并，但字符串条件则只支持一次。
+        $admin=D('Category');
+        $map['username'] = array('eq','admin');
+        $select = $admin->where($map)->select();
+        dump($select);
+
+        echo "\n\n=================================\n\n";
+
+    }
+
+    /**
+     * 连贯查询--table
+     * 作用:
+     * 1.切换操作的数据表；
+     * 2.对多表进行操作；
+     */
+    public function table(){
+
+        //注意__USER__用法
+        $admin=D('Category');
+        $select = $admin->table('db_test1.country')->select();//可指定数据库
+        dump($select);
+
+        echo "\n\n=================================\n\n";
+
+        //多表操作
+        $m=M();
+        $d=$m->field('user.username,country.name')->table(array('admin_user' => 'user', 'db_test1.country' => 'country'))->limit(3)->select();
+        dump($d);
+    }
+
+    /**
+     * field
+     */
+    public function field(){
+        $m=M('db_test1.country');
+        //$d=$m->field('name,code as CO')->select();
+        //$d=$m->field(array('name','code'=>'cod'))->select();//支持数组方式,同时可以定义别名
+        //$d=$m->field()->select();//获取所有字段
+        //$d=$m->field('*')->select();//获取所有字段
+        //$d=$m->field(true)->select();//显式的调用所有字段
+        $d=$m->field('name',true)->select();//获取除了name之外的所有字段
+        $d=$m->field(array('name','code'),true)->select();//获取除了name,code之外的所有字段
+
+        //写入时字段合法性检测
+
+        dump($d);
+    }
+
+    /**
+     * limit
+     */
+    public function limit(){
+        //限制结果数量
+        $m=M('db_test1.country');
+        $result=$m->limit(6)->select();
+        dump($result);
+
+        echo "\n\n====================\n\n";
+
+        //分页查询
+        $result=$m->limit(5, 3)->select();//表示查询文章数据，从第5行开始的3条数据
+        dump($result);
+
     }
 
     /**

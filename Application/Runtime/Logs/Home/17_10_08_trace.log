@@ -1,0 +1,134 @@
+[ 2017-10-08T20:46:43+08:00 ] 127.0.0.1 /Home/DB/limit
+[ 基本 ]
+请求信息:2017-10-08 20:46:40 HTTP/1.1 GET : /Home/DB/limit
+运行时间:1.9641s ( Load:1.0841s Init:0.2830s Exec:0.5980s Template:-0.0010s )
+吞吐率:0.51req/s
+内存开销:1,597.29 kb
+查询信息:3 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:134
+会话信息:SESSION_ID=jq863qqdjrp1vc77h34i6vel94
+
+[ 文件 ]
+D:\testLocal\thinkPHP3.2\index.php ( 1.96 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Mode\common.php ( 2.82 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Common\functions.php ( 52.60 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Conf\convention.php ( 11.18 KB )
+D:\testLocal\thinkPHP3.2\Application\Common\Conf\config.php ( 1.43 KB )
+D:\testLocal\thinkPHP3.2\Application\Common\Conf\tags.php ( 0.32 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Conf\debug.php ( 1.51 KB )
+D:\testLocal\thinkPHP3.2\Application\Common\Conf\debug.php ( 0.28 KB )
+D:\testLocal\thinkPHP3.2\Application\Common\Conf\user.php ( 0.37 KB )
+D:\testLocal\thinkPHP3.2\Application\Common\Conf\db.php ( 0.67 KB )
+D:\testLocal\thinkPHP3.2\Application\Common\Conf\db_config.php ( 1.71 KB )
+D:\testLocal\thinkPHP3.2\Application\Home\Conf\config.php ( 2.62 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+D:\testLocal\thinkPHP3.2\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+D:\testLocal\thinkPHP3.2\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+D:\testLocal\thinkPHP3.2\Application\Home\Controller\DBController.class.php ( 9.65 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\Model.class.php ( 67.27 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\Db.class.php ( 5.70 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php ( 8.73 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\Db\Driver.class.php ( 41.60 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+SHOW COLUMNS FROM `db_test1`.`country` [ RunTime:0.0460s ]
+SELECT * FROM db_test1.country LIMIT 6   [ RunTime:0.0660s ]
+SELECT * FROM db_test1.country LIMIT 5,3   [ RunTime:0.0020s ]
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
+[ 2017-10-08T20:52:57+08:00 ] 127.0.0.1 /Home/DB/limit
+[ 基本 ]
+请求信息:2017-10-08 20:52:56 HTTP/1.1 GET : /Home/DB/limit
+运行时间:0.2280s ( Load:0.0200s Init:0.0210s Exec:0.1870s Template:0.0000s )
+吞吐率:4.39req/s
+内存开销:1,596.78 kb
+查询信息:3 queries 0 writes 
+文件加载:36
+缓存信息:0 gets 0 writes 
+配置加载:134
+会话信息:SESSION_ID=jq863qqdjrp1vc77h34i6vel94
+
+[ 文件 ]
+D:\testLocal\thinkPHP3.2\index.php ( 1.96 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\ThinkPHP.php ( 4.71 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\Think.class.php ( 12.32 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\Storage.class.php ( 1.38 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\Storage\Driver\File.class.php ( 3.56 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Mode\common.php ( 2.82 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Common\functions.php ( 52.60 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\Hook.class.php ( 4.02 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\App.class.php ( 12.44 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\Dispatcher.class.php ( 15.15 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\Route.class.php ( 13.38 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\Controller.class.php ( 10.95 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\View.class.php ( 7.96 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Behavior\BuildLiteBehavior.class.php ( 3.69 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php ( 3.89 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Behavior\ContentReplaceBehavior.class.php ( 1.93 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Conf\convention.php ( 11.18 KB )
+D:\testLocal\thinkPHP3.2\Application\Common\Conf\config.php ( 1.43 KB )
+D:\testLocal\thinkPHP3.2\Application\Common\Conf\tags.php ( 0.32 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Lang\zh-cn.php ( 2.57 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Conf\debug.php ( 1.51 KB )
+D:\testLocal\thinkPHP3.2\Application\Common\Conf\debug.php ( 0.28 KB )
+D:\testLocal\thinkPHP3.2\Application\Common\Conf\user.php ( 0.37 KB )
+D:\testLocal\thinkPHP3.2\Application\Common\Conf\db.php ( 0.67 KB )
+D:\testLocal\thinkPHP3.2\Application\Common\Conf\db_config.php ( 1.71 KB )
+D:\testLocal\thinkPHP3.2\Application\Home\Conf\config.php ( 2.62 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Behavior\ReadHtmlCacheBehavior.class.php ( 5.62 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Behavior\CheckLangBehavior.class.php ( 2.96 KB )
+D:\testLocal\thinkPHP3.2\Application\Common\Lang\zh-cn.php ( 0.24 KB )
+D:\testLocal\thinkPHP3.2\Application\Home\Lang\zh-cn.php ( 0.17 KB )
+D:\testLocal\thinkPHP3.2\Application\Home\Controller\DBController.class.php ( 9.65 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\Model.class.php ( 67.27 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\Db.class.php ( 5.70 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php ( 8.73 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Think\Db\Driver.class.php ( 41.60 KB )
+D:\testLocal\thinkPHP3.2\ThinkPHP\Library\Behavior\ShowPageTraceBehavior.class.php ( 5.27 KB )
+
+[ 流程 ]
+
+
+[ 错误 ]
+
+
+[ SQL ]
+SHOW COLUMNS FROM `db_test1`.`country` [ RunTime:0.1490s ]
+SELECT * FROM db_test1.country LIMIT 6   [ RunTime:0.0010s ]
+SELECT * FROM db_test1.country LIMIT 5,3   [ RunTime:0.0010s ]
+
+[ 调试 ]
+
+
+[ 用户 ]
+
+
